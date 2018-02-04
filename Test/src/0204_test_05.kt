@@ -29,4 +29,6 @@ fun main(args: Array<String>) {
     println(getStringLength2(string1))
     println(getStringLength2(string2))
     println("")
+
+    print("월월월월")
 }
