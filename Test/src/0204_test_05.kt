@@ -30,5 +30,5 @@ fun main(args: Array<String>) {
     println(getStringLength2(string2))
     println("")
 
-    print("월월월월")
+    print("월요일 너무 싫다")
 }
